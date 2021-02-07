@@ -1,4 +1,4 @@
-Research Associate | Dept. of Data Science, Dana-Farber Cancer Institute and Dept. of Cell Biology, Harvard Medical School
+Research Associate | Dept. of Data Sciences, Dana-Farber Cancer Institute and Dept. of Cell Biology, Harvard Medical School
 
 * aluna AT jimmy.harvard.edu
 * LinkedIn: https://www.linkedin.com/in/augustin-luna
