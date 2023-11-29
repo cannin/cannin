@@ -1,6 +1,6 @@
-Research Associate | Dept of Systems Biology, Harvard Medical School
+Investigator | Computational Biology Branch, National Library of Medicine & Developmental Therapeutics Branch, National Cancer Institute, National Institutes of Health
 
-* augustin_luna AT hms.harvard.edu
+* augustin AT nih.gov
 * LinkedIn: https://www.linkedin.com/in/augustin-luna
 * GitHub: [@cannin](http://github.com/cannin)
 * Twitter: [@canninl](https://twitter.com/canninl)
